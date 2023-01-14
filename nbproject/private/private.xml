@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/archivos/Leer.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/control/ControlUsuarios.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/archivos/usuarios.json</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/conexion/Server.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/conexion/Cliente.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/gui/InicioServidor.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/archivos/Guardar.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/principal/Main.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/conexion/Servidor.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/gui/Conexion.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/modelo/Mensaje.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/gui/Login.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/control/Formato.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/gui/AdministrarUsuarios.java</file>
+            <file>file:/C:/Users/emgl_/Documents/NetBeansProjects/Servidor-CloudNetwork/src/archivos/Datos.java</file>
+        </group>
+    </open-files>
+</project-private>
